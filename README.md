@@ -1,10 +1,12 @@
-This repo holds the code for a mini social media website created for the 2023 CNLC
+This repo holds the code for a mini social media website created for the 2023 CNLC 
+  
 Front end = React
 Server = Sanity 
 
-
-
 Link = https://maple-fbla-cnlc.netlify.app/
+
+NPM install
+npm run dev
 
 
 
